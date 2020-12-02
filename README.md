@@ -1,5 +1,6 @@
 # Exploring data on dogs in shelter
-Language used: Python
+Language used: 
+* Python
 Libraries used: 
 * Data processing
   * Pandas
