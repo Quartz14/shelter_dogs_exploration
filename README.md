@@ -14,6 +14,7 @@ By analysing the dataset on, shelter dogs that are ready for adoption we try to 
 ### Files: 
 * Dataset-from Hungarian Database of Homeless Pets obtained from kaggle (link below)
 * Jupyter notebook- containing the exploratory data analysis
+* plots folder - consists of images of plots
 
 ### Key questions tackled:
 * Is neutering essential to ensure your future pet is friendly?
